@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/people/party/pest/"}
+{"dg-publish":true,"permalink":"/people/party/pest/","dgShowToc":"true"}
 ---
 
 The cutest member of [[People/Party/The Party\|The Party]]
