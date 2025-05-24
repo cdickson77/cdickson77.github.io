@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/people/party/pest/","dgShowToc":"true"}
+{"dg-publish":true,"permalink":"/people/party/pest/"}
 ---
+
 
 The cutest member of [[People/Party/The Party\|The Party]]
 Appeared out of thin air in a poof of smoke, in place of [[People/Party/Dead or gone/Varyn Grimlance\|Varyn Grimlance]] who disappeared.
