@@ -1,15 +1,15 @@
 [
 {
 		"title": "Curse of Strahd",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
-		"content": "Yay\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/pest/\">Pest</a>",
+		"content": "Yay\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/pest/\">Pest</a>",
 		"tags": [ "note","gardenEntry"]
 },
 
 {
 		"title": "Barovia",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/barovia/",
 		"content": "Ruled by strahd?\nKinda just showed up here, very depressing",
 		"tags": [ "note"]
@@ -17,183 +17,183 @@
 
 {
 		"title": "Krezk",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/krezk/",
-		"content": "Located in <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/barovia/\">Barovia</a>",
+		"content": "Located in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/barovia/\">Barovia</a>",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Vallaki",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/vallaki/",
-		"content": "Located in <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/barovia/\">Barovia</a>",
+		"content": "Located in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/barovia/\">Barovia</a>",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Death House",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/village-of-barovia/death-house/",
-		"content": "A house located inside the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>. Haunted, use to be run by a cult. Eventually found <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/crash-fistfight/\">Crash Fistfight</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/kenra/\">Kenra</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/jip-bip/\">Jip Bip</a> entering it. <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/crash-fistfight/\">Crash Fistfight</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a> lost their life inside it.",
+		"content": "A house located inside the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>. Haunted, use to be run by a cult. Eventually found <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/crash-fistfight/\">Crash Fistfight</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/kenra/\">Kenra</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/jip-bip/\">Jip Bip</a> entering it. <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/crash-fistfight/\">Crash Fistfight</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a> lost their life inside it.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Village of Barovia",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/village-of-barovia/village-of-barovia/",
-		"content": "Located inside <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/barovia/\">Barovia</a> (surprising I know)\nAlso very depressing.",
+		"content": "Located inside <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/barovia/\">Barovia</a> (surprising I know)\nAlso very depressing.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Bildrath Cantmir",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/bildrath-cantmir/",
-		"content": "Lives in the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>.\nWorks at the general store, smithy, and cartographer in the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>\nFirst met the party on their first run through.\nArch nemesis is <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/rotton/\">Rotton</a>.\nNo Refunds.",
+		"content": "Lives in the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>.\nWorks at the general store, smithy, and cartographer in the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>\nFirst met the party on their first run through.\nArch nemesis is <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/rotton/\">Rotton</a>.\nNo Refunds.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Firstname Jarov",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/firstname-jarov/",
-		"content": "Lives in the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>.\nFirst met <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a> when they returned his child.\nHis child quickly ran back home after freeing them from the sack.",
+		"content": "Lives in the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>.\nFirst met <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a> when they returned his child.\nHis child quickly ran back home after freeing them from the sack.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Ireena Kolyana",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/ireena-kolyana/",
-		"content": "Lived in the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a> with her brother, where she met the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a>\nPetitioned them to take her to <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/vallaki/\">Vallaki</a> or <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/krezk/\">Krezk</a>.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a> decides to take her to <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/vallaki/\">Vallaki</a> first as it's on the way to <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/krezk/\">Krezk</a>.",
+		"content": "Lived in the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a> with her brother, where she met the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a>\nPetitioned them to take her to <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/vallaki/\">Vallaki</a> or <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/krezk/\">Krezk</a>.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a> decides to take her to <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/vallaki/\">Vallaki</a> first as it's on the way to <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/krezk/\">Krezk</a>.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Ismark Kolyana",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/ismark-kolyana/",
-		"content": "Lives in <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>.\nAdoptive brother of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/ireena-kolyana/\">Ireena Kolyana</a>.\nPetitioned <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a> to bring his sister <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/ireena-kolyana/\">Ireena Kolyana</a> to <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/vallaki/\">Vallaki</a>.",
+		"content": "Lives in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>.\nAdoptive brother of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/ireena-kolyana/\">Ireena Kolyana</a>.\nPetitioned <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a> to bring his sister <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/ireena-kolyana/\">Ireena Kolyana</a> to <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/vallaki/\">Vallaki</a>.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Bjorn",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/bjorn/",
-		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a>.\nGoliath Barbarian",
+		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a>.\nGoliath Barbarian",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Cipher Dupe",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/dead-or-gone/cipher-dupe/",
-		"content": "Dead lmfao\nThird of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Party</a> to die.\nWas lost in the mists around <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/varyn-grimlance/\">Varyn Grimlance</a> and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/ffion/\">Ffion</a>, until they finally found their way to the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>, and meeting <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/kenra/\">Kenra</a>.\nExploded into a fine mist.",
+		"content": "Dead lmfao\nThird of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Party</a> to die.\nWas lost in the mists around <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/varyn-grimlance/\">Varyn Grimlance</a> and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/ffion/\">Ffion</a>, until they finally found their way to the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>, and meeting <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/kenra/\">Kenra</a>.\nExploded into a fine mist.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Crash Fistfight",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/dead-or-gone/crash-fistfight/",
-		"content": "Dead lmfao\nFirst of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Party</a> to die.\nFirst appeared in <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/kenra/\">Kenra</a>, having to go through <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/death-house/\">Death House</a>.\nDied to a Grick.",
+		"content": "Dead lmfao\nFirst of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Party</a> to die.\nFirst appeared in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/kenra/\">Kenra</a>, having to go through <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/death-house/\">Death House</a>.\nDied to a Grick.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Dead or gone",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/dead-or-gone/dead-or-gone/",
-		"content": "Members of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a> that are either dead or just gone.",
+		"content": "Members of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a> that are either dead or just gone.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Solaris",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/dead-or-gone/solaris/",
-		"content": "Dead lmfao\nSecond of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Party</a> to die.\nFirst appeared in <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/kenra/\">Kenra</a>, having to go through <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/death-house/\">Death House</a>.\nDied heroically to a Shambling Mound.",
+		"content": "Dead lmfao\nSecond of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Party</a> to die.\nFirst appeared in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/kenra/\">Kenra</a>, having to go through <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/death-house/\">Death House</a>.\nDied heroically to a Shambling Mound.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Varyn Grimlance",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/dead-or-gone/varyn-grimlance/",
-		"content": "Disappeared lmao.\nMember of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Party</a> to not die.\nWas lost in the mists around <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/ffion/\">Ffion</a> and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/cipher-dupe/\">Cipher Dupe</a>, until they finally found their way to the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>, and meeting <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/kenra/\">Kenra</a>.\nJust poofed one day.",
+		"content": "Disappeared lmao.\nMember of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Party</a> to not die.\nWas lost in the mists around <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/ffion/\">Ffion</a> and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/cipher-dupe/\">Cipher Dupe</a>, until they finally found their way to the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>, and meeting <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/kenra/\">Kenra</a>.\nJust poofed one day.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Elias",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/elias/",
-		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a>.\nDragonborn Monk",
+		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a>.\nDragonborn Monk",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Elte",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/elte/",
-		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a>.\nAasimar Warlock.\nOne armed lmao\nFirst appeared in <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/kenra/\">Kenra</a>, having to go through <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/death-house/\">Death House</a>.\nLost her arm to a mimic.",
+		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a>.\nAasimar Warlock.\nOne armed lmao\nFirst appeared in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/kenra/\">Kenra</a>, having to go through <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/death-house/\">Death House</a>.\nLost her arm to a mimic.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Ffion",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/ffion/",
-		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a>.\nBatfolk bard.\nWas lost in the mists around <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/varyn-grimlance/\">Varyn Grimlance</a> and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/cipher-dupe/\">Cipher Dupe</a>, until they finally found their way to the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>, and meeting <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/kenra/\">Kenra</a>.",
+		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a>.\nBatfolk bard.\nWas lost in the mists around <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/varyn-grimlance/\">Varyn Grimlance</a> and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/cipher-dupe/\">Cipher Dupe</a>, until they finally found their way to the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/village-of-barovia/\">Village of Barovia</a>, and meeting <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/kenra/\">Kenra</a>.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Jip Bip",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/jip-bip/",
-		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a>.\nFoxfolk Rogue\nFirst appeared in <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/kenra/\">Kenra</a>, having to go through <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/death-house/\">Death House</a>.",
+		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a>.\nFoxfolk Rogue\nFirst appeared in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/kenra/\">Kenra</a>, having to go through <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/death-house/\">Death House</a>.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Kenra",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/kenra/",
-		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a>.\nOwlin Cleric.\nFirst appeared in <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/kenra/\">Kenra</a>, having to go through <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/village-of-barovia/death-house/\">Death House</a>.\nPsychologically scarred by the loss of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/crash-fistfight/\">Crash Fistfight</a>, blaming himself.",
+		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a>.\nOwlin Cleric.\nFirst appeared in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/barovia/\">Barovia</a> with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/solaris/\">Solaris</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/elte/\">Elte</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/jip-bip/\">Jip Bip</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/kenra/\">Kenra</a>, having to go through <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/village-of-barovia/death-house/\">Death House</a>.\nPsychologically scarred by the loss of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/crash-fistfight/\">Crash Fistfight</a>, blaming himself.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Pest",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/pest/",
-		"content": "The cutest member of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a>\nAppeared out of thin air in a poof of smoke, in place of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/dead-or-gone/varyn-grimlance/\">Varyn Grimlance</a> who disappeared.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/bjorn/\">Bjorn</a> believed it was <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/pest/\">Pest</a> who placed the beartrap he was then set in, threatening to kill him for it.\nIn his first combat against some wolves, he managed to save <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/bjorn/\">Bjorn</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/elias/\">Elias</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/kenra/\">Kenra</a> when he got a lucky roll on Nathairs Mischief, causing the wolves to be incapacitated while <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a> made a run for it.",
+		"content": "The cutest member of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a>\nAppeared out of thin air in a poof of smoke, in place of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/dead-or-gone/varyn-grimlance/\">Varyn Grimlance</a> who disappeared.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/bjorn/\">Bjorn</a> believed it was <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/pest/\">Pest</a> who placed the beartrap he was then set in, threatening to kill him for it.\nIn his first combat against some wolves, he managed to save <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/bjorn/\">Bjorn</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/elias/\">Elias</a>, and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/kenra/\">Kenra</a> when he got a lucky roll on Nathairs Mischief, causing the wolves to be incapacitated while <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a> made a run for it.",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Rotton",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/rotton/",
-		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/the-party/\">The Party</a>.\nTiefling Sorcerer",
+		"content": "Member of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/the-party/\">The Party</a>.\nTiefling Sorcerer",
 		"tags": [ "note"]
 },
 
 {
 		"title": "Spud",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/spud/",
-		"content": "bff of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/people/party/pest/\">Pest</a>",
+		"content": "bff of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/people/party/pest/\">Pest</a>",
 		"tags": [ "note"]
 },
 
 {
 		"title": "The Party",
-		"date":"Sat May 24 2025 07:13:23 GMT+0000 (Coordinated Universal Time)",
+		"date":"Sat May 24 2025 07:19:24 GMT+0000 (Coordinated Universal Time)",
 		"url":"/people/party/the-party/",
 		"content": "",
 		"tags": [ "note"]
