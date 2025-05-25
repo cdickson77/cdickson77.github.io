@@ -6,6 +6,6 @@
 Disappeared lmao.
 Member of [[People/Party/Dead or gone/Dead or gone\|The Party]] to not die.
 
-Was lost in the mists around [[Locations/Barovia\|Barovia]] with [[People/Party/Ffion\|Ffion]] and [[People/Party/Dead or gone/Cipher Dupe\|Cipher Dupe]], until they finally found their way to the [[Locations/Village of Barovia/Village of Barovia\|Village of Barovia]], and meeting [[People/Party/Elte\|Elte]], [[People/Party/Jip Bip\|Jip Bip]], and [[People/Party/Kenra\|Kenra]].
+Was lost in the mists around [[Locations/Barovia\|Barovia]] with [[People/Party/Ffion\|Ffion]] and [[People/Party/Dead or gone/Cipher Dupe\|Cipher Dupe]], until they finally found their way to the [[Locations/Village of Barovia/Village of Barovia\|Village of Barovia]], and meeting [[People/Party/Elte\|Elte]], [[People/Party/Jip Bip\|Jip Bip]], and [[People/Party/Kenra Whisper\|Kenra Whisper]].
 
 Just poofed one day.

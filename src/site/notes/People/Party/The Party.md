@@ -8,7 +8,7 @@ Current Members:
 - [[People/Party/Elte\|Elte]] (most of her)
 - [[People/Party/Ffion\|Ffion]]
 - [[People/Party/Jip Bip\|Jip Bip]]
-- [[People/Party/Kenra\|Kenra]]
+- [[People/Party/Kenra Whisper\|Kenra Whisper]]
 - [[People/Party/Pest\|Pest]]
 - [[People/Party/Rotton\|Rotton]]
 
