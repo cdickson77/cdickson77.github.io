@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/people/party/ffion/"}
 ---
 
+![Ffion.webp|500](/img/user/Images/Ffion.webp)
 Member of [[People/Party/The Party\|The Party]].
 Batfolk bard.
 

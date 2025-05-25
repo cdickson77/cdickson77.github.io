@@ -29,4 +29,6 @@ In the [[Locations/Village of Barovia/Village of Barovia\|Village of Barovia]], 
 
 On their way, [[People/Party/Bjorn\|Bjorn]] wasn't paying attention and steps in a bear trap. At almost the exact same time [[People/Party/Dead or gone/Varyn Grimlance\|Varyn Grimlance]] disappears in a poof of smoke, now [[People/Party/Pest\|Pest]] standing in his place. [[People/Party/Bjorn\|Bjorn]] blames the small wizard for the bear trap, causing [[People/Party/Pest\|Pest]] to fling his bestfriend [[People/Party/Spud\|Spud]] at him. Eventually when everything calms down, [[People/Party/The Party\|The Party]] invites [[People/Party/Pest\|Pest]] to join them.
 
-[[People/Party/The Party\|The Party]] eventually comes to a pack of starving wolves, after a long fight, [[People/Party/The Party\|The Party]] eventually decides to retreat to safety.
+[[People/Party/The Party\|The Party]] eventually comes to a pack of starving wolves, after a long fight, [[People/Party/The Party\|The Party]] eventually decides to retreat to safety.|
+
+## Session 5

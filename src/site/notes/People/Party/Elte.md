@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/people/party/elte/"}
 ---
 
+![Elte.jpg|500](/img/user/Images/Elte.jpg)
 Member of [[People/Party/The Party\|The Party]].
 Aasimar Warlock.
 One armed lmao
