@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/people/party/dead-or-gone/varyn-grimlance/"}
 ---
 
+![VarynGrimlance.jpg|500](/img/user/Images/VarynGrimlance.jpg)
 Disappeared lmao.
 Member of [[Dead or gone \|The Party]] to not die.
 

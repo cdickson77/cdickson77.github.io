@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/people/party/dead-or-gone/cipher-dupe/"}
 ---
 
+![CiperDupe.png](/img/user/Images/CiperDupe.png)
 Dead lmfao
 Third of [[Dead or gone \|The Party]] to die.
 
