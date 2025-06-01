@@ -4,4 +4,4 @@
 
 ;-; so much writing to do
 
-[[SchizoDnd/People/Party/The Party\|The Party]]
+Check out [[SchizoDnd/People/Party/The Party\|The Party]] for now
