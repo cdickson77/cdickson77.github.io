@@ -4,7 +4,7 @@
 
 ![Pest.png|500](/img/user/Curse%20of%20Strahd/Images/Pest.png)
 
-The cutest member of [[Curse of Strahd/People/Party/The Party\|Curse of Strahd/People/Party/The Party]].
+The cutest member of [[Curse of Strahd/People/Party/The Party\|The Party]].
 Bff of [[Curse of Strahd/People/Party/Spud\|Spud]].
 
 Appeared out of thin air in a poof of smoke, in place of [[Curse of Strahd/People/Party/Dead or gone/Varyn Grimlance\|Varyn Grimlance]] who disappeared.
