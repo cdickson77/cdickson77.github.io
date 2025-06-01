@@ -3,5 +3,5 @@
 ---
 
 ![RavenWoman.jpg|500](/img/user/Curse%20of%20Strahd/Images/RavenWoman.jpg)
-Appeared behind [[Curse of Strahd/People/Party/The Party\|The Party]] when they investigated an overturned carriage
+Appeared behind [[Curse of Strahd/People/Party/The Party (CoS)\|The Party (CoS)]] when they investigated an overturned carriage
 "You didnt see me, you just heard a raven"

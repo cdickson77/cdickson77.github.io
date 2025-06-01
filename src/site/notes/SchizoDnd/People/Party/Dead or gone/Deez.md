@@ -3,4 +3,4 @@
 ---
 
 
-loser of [[SchizoDnd/People/Party/Dead or gone/Dead or gone\|The Party]] that died somehow lmao, check back later
+loser of [[SchizoDnd/People/Party/Dead or gone/Dead or gone\|The Party]] that died due to being crushed my a meteor

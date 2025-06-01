@@ -3,5 +3,5 @@
 ---
 
 ![Rotton.png|500](/img/user/Curse%20of%20Strahd/Images/Rotton.png)
-Member of [[Curse of Strahd/People/Party/The Party\|The Party]].
+Member of [[Curse of Strahd/People/Party/The Party (CoS)\|The Party (CoS)]].
 Tiefling Sorcerer
